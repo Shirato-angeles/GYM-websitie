@@ -1,0 +1,26 @@
+.hero{
+    display: flex;
+    justify-content: space-between;
+}
+
+.left-h{
+    padding: 2rem;
+    padding-top: 1.5rem;
+}
+
+.header-menu{
+    list-style: none;
+    display:flex;
+    gap: 2rem;
+    color: white;
+    flex: 3;
+}
+
+.right-h{
+    flex: 1;
+}
+
+.header-menu>li:hover{
+    color: var(--orange);
+    cursor: pointer;
+}
