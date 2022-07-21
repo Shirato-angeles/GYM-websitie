@@ -3,6 +3,19 @@
     justify-content: space-between;
 }
 
+.header-menu{
+    list-style: none;
+    display:flex;
+    gap: 2rem;
+    color: white;
+    flex: 3;
+}
+
+.header-menu>li:hover{
+    color: var(--orange);
+    cursor: pointer;
+}
+
 .logo {
     width: 10rem;
     height: 3rem;
