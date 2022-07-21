@@ -6,6 +6,7 @@
 .header-menu{
     list-style: none;
     display:flex;
+    justify-content: end;
     gap: 2rem;
     color: white;
     flex: 3;
