@@ -43,3 +43,12 @@
 .btn:hover {
   cursor: pointer;
 }
+
+.partners{
+  display: flex;
+  gap: 1rem;
+}
+
+.partners>img{
+  width: 2.5rem;
+}
