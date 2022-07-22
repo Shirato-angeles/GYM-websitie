@@ -1,0 +1,26 @@
+.plans-container{
+    padding: 0 2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 4rem;
+    position: relative;
+}
+
+.programs-header{
+    display: flex;
+    gap: 4rem;
+    font-weight: bold;
+    font-size: 3rem;
+    justify-content:center;
+    color: white;
+    text-transform: uppercase;
+    font-style: italic;
+}
+
+.plan{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 3rem;
+}
+
